@@ -5,7 +5,7 @@ SwinStickShooter on Unreal Engine 5.2 versiolla luotu peli, jossa pelaaja ohjaa 
 
 ## Asennusohjeet
 1. Asenna Unreal Engine versio 5.5 Epic Games Launcherilla.
-2. Lataa projekti GitHubista ja avaa `MyProject`-tiedosto Unreal Editorissa.
+2. Lataa projekti GitHubista osoitteesta https://github.com/fnike005/MyProject-2 ja avaa `MyProject`-tiedosto Unreal Editorissa.
 3. Käännä projekti Visual Studiolla, jos käyttöjärjestelmä sitä vaatii.
 
 ## Peliohjeet
